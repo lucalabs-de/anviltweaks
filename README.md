@@ -1,9 +1,4 @@
-# Fabric Example Mod
-
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+# Anvil Tweaks
+This simple mod aims to make anvils less frustrating. It removes the arbitrary "Too Expensive!" level cap when using an
+Anvil. It also nerfs the increasingly prohibitive prior work penalty. Repairs do become more expensive, but you will 
+never pay more than 30 levels as a work penalty. 
